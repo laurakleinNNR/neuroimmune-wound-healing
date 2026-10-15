@@ -1,2 +1,2 @@
-# neural-network-recovery
-Computational investigation of network-based neuromodulation strategies for restoring dynamics in structurally damaged brain networks.
+# neuroimmune-wound-healing
+Computational investigation of CGRP-related neuroimmune signaling in chronic wound repair using public gene-expression data.
